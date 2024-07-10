@@ -1,0 +1,7 @@
+<div class="bg-success p-2 text-white">Objetivo general</div>
+<div class="bg-success p-2 text-white bg-opacity-75">Mejorar la calidad del producto: En un mercado competitivo como el de los relojes, la calidad es fundamental. Mejorar la durabilidad, precisión y diseño de los relojes puede ser un objetivo clave para mantener o mejorar la reputación de la marca.</div>
+<div class="bg-success p-2 text-dark bg-opacity-50">Innovación y desarrollo de nuevos productos: Introducir nuevos modelos con características innovadoras, como nuevas tecnologías, materiales sostenibles o diseños exclusivos, puede ser un objetivo para captar la atención de los clientes y diferenciarse de la competencia.</div>
+<div class="bg-success p-2 text-dark bg-opacity-25">Fidelización de clientes y servicio al cliente: Construir relaciones sólidas con los clientes a través de un excelente servicio postventa, garantías extendidas o programas de fidelización puede aumentar la lealtad del cliente y promover las recomendaciones boca a boca.
+
+</div>
+<div class="bg-success p-2 text-dark bg-opacity-10">Responsabilidad social y sostenibilidad: Incorporar prácticas sostenibles en la fabricación de relojes, como el uso de materiales reciclados o la reducción de la huella de carbono, puede ser un objetivo importante para cumplir con las expectativas de los consumidores y las regulaciones ambientales.</div>

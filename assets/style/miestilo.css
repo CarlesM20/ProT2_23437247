@@ -1,0 +1,117 @@
+/* miestilo.css */
+
+/*
+body {
+    background-color: #eaf2e3; 
+    color: #333; 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 0; 
+}
+*/
+
+
+header {
+    background-color: #69bd45;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para el nav y enlaces de ul y li */
+nav {
+    background-color: #4caf50;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #2f8247;
+}
+
+/* Estilos para las imágenes */
+.logo {
+    display: block;
+    margin: 0 auto;
+    max-width: 200px;
+    border: 3px solid #69bd45;
+    border-radius: 10px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border: 3px solid #69bd45;
+    border-radius: 10px;
+}
+
+.custom-carousel-img {
+    display: block; /* Asegura que la imagen es un bloque */
+    max-width: 80%; /* Ajusta este valor según tus necesidades */
+    height: auto; /* Mantiene la proporción de la imagen */
+    margin-left: auto; /* Centra la imagen horizontalmente */
+    margin-right: auto; /* Centra la imagen horizontalmente */
+    max-height: 400px; /* Máxima altura de la imagen, ajusta según tus necesidades */
+    object-fit: cover; /* Ajusta la imagen para que llene el contenedor */
+}
+
+/* Estilos para la foto del reloj */
+.foto-reloj {
+    display: block;
+    margin: 0 auto; /* Esto centrará la imagen horizontalmente */
+    max-width: 200px; /* Ancho máximo deseado */
+    border: 3px solid #69bd45;
+    border-radius: 10px;
+}
+
+section {
+    padding: 20px;
+}
+
+
+/* Estilos del pie de página */
+footer {
+    background-color: #4caf50; 
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Estilos iconos de redes sociales */
+.social-icon {
+    color: #fff; 
+    font-size: 24px; 
+    margin-right: 10px; 
+}
+
+.social-icon:hover {
+    color: #8c3a3a; 
+}
+
+.centrar {
+    text-align: center;
+}
